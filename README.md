@@ -960,6 +960,7 @@ VALUES ('S999', 'Test', 'User', 'M', TO_DATE('2000-01-01','YYYY-MM-DD'), 'test.u
 
 ![alt text](<PhaseI to VII screenshots/TRACK_AUDIT4.PNG>)
 
+![alt text](<PhaseI to VII screenshots/Auditing attempts.PNG>)
 
 
 This Approach Enhances Security and Aligns with System Objectives by ensuring:
